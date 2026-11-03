@@ -7,18 +7,11 @@ I'm currently developing my cloud computing skills through the AWS re/Start prog
 
 ## 🛠️ Skills I'm Learning
 
-AWS Cloud Fundamentals
-  - EC2, S3, IAM, VPC, Lambda, and more
-Emerging Technologies
-  - Artificial Intelligence and Machine Learning
-Workplace Skill
-  - Communication, Project Tools and Reporting
-Systems and Programming
-  - Linux, Python, Scripting and Automation
-Networks and Security
-  - Networking, Cloud Security, Authentication and Firewalls
-Data and Databases
-  - Database Fundamentals and Data Technologies
+- Amazon Web Services (AWS)
+- Networking Fundamentals
+- Linux
+- Python Programming
+- Cloud Security
 
 
 ## 🧪 Hands-On Learning
