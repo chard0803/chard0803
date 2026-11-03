@@ -1,11 +1,12 @@
 
 # Hi there, I'm an AWS re/Start Scholar! 👋
 
-☁️ Aspiring Cloud Engineer
+☁️ AWS re/Start Scholar | Aspiring Cloud Engineer
 
+Welcome to my GitHub profile!
 I'm currently developing my cloud computing skills through the AWS re/Start program.
 
-## 🛠️ Skills I'm Learning
+## 🚀 Skills I'm Learning
 
 ☁️ Amazon Web Services (AWS)
 
@@ -19,7 +20,7 @@ I'm currently developing my cloud computing skills through the AWS re/Start prog
 
 🗄️ Cloud Storage and Databases
 
-🛠️ AWS Technologies
+## 🛠️ AWS Technologies
 - Amazon EC2
 - Amazon S3
 - AWS IAM
@@ -29,11 +30,11 @@ I'm currently developing my cloud computing skills through the AWS re/Start prog
 - Amazon CloudWatch
 
 
-🧪 Hands-On Learning
+## 🧪 Hands-On Learning
 
 I'm documenting my AWS re/Start journey through guided AWS Sandbox labs, practical exercises, and personal cloud projects.
 
-🎯 My Goal
+## 🎯 My Goal
 
 To become a skilled Cloud Engineer by continuously learning, practicing, building projects, and developing real-world cloud computing skills.
 
