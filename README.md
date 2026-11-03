@@ -1,7 +1,7 @@
 
 # Hi there, I'm an AWS re/Start Scholar! 👋
 
-☁️ Aspiring Cloud Engineer | 🇵🇭 Philippines
+☁️ Aspiring Cloud Engineer
 
 I'm currently developing my cloud computing skills through the AWS re/Start program.
 
